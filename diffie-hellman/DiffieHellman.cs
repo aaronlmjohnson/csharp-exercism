@@ -11,11 +11,11 @@ public static class DiffieHellman
 
     public static BigInteger PublicKey(BigInteger primeP, BigInteger primeG, BigInteger privateKey) 
     {
-        return (int) Math.Pow((double) primeG, (double) privateKey) % primeP;
+        return BigInteger.ModPow(primeG, privateKey, primeP);
     }
 
     public static BigInteger Secret(BigInteger primeP, BigInteger publicKey, BigInteger privateKey) 
     {
-        return (int) Math.Pow((double)publicKey, (double)privateKey) % primeP;
+        return BigInteger.ModPow(publicKey, privateKey, primeP);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5x2zeGy0sn38REjJ7JLMPUxXUbf6zf6EucdbFDGXgUH8hzsmhP3NoIwp3ti9bnwf3jSdZ2k4J8gobJHUDjzfw==",
+  "dgSpecHash": "+Oegd06zRxXIypSdd/SURabgbFFYJ7bQ4JggdjCcILWIRiQfrHDb0iTqWWSmIYdLi0d75LqH29h15sk4mVF18Q==",
   "success": true,
-  "projectFilePath": "/home/aaron/snap/exercism/5/exercism/csharp/diffie-hellman/DiffieHellman.csproj",
+  "projectFilePath": "/home/aaron/csharp-exercism/diffie-hellman/DiffieHellman.csproj",
   "expectedPackageFiles": [
     "/home/aaron/.nuget/packages/exercism.tests/0.1.0-beta1/exercism.tests.0.1.0-beta1.nupkg.sha512",
     "/home/aaron/.nuget/packages/microsoft.codecoverage/16.8.3/microsoft.codecoverage.16.8.3.nupkg.sha512",

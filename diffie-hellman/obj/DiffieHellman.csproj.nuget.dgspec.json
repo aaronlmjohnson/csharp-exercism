@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aaron/snap/exercism/5/exercism/csharp/diffie-hellman/DiffieHellman.csproj": {}
+    "/home/aaron/csharp-exercism/diffie-hellman/DiffieHellman.csproj": {}
   },
   "projects": {
-    "/home/aaron/snap/exercism/5/exercism/csharp/diffie-hellman/DiffieHellman.csproj": {
+    "/home/aaron/csharp-exercism/diffie-hellman/DiffieHellman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aaron/snap/exercism/5/exercism/csharp/diffie-hellman/DiffieHellman.csproj",
+        "projectUniqueName": "/home/aaron/csharp-exercism/diffie-hellman/DiffieHellman.csproj",
         "projectName": "DiffieHellman",
-        "projectPath": "/home/aaron/snap/exercism/5/exercism/csharp/diffie-hellman/DiffieHellman.csproj",
+        "projectPath": "/home/aaron/csharp-exercism/diffie-hellman/DiffieHellman.csproj",
         "packagesPath": "/home/aaron/.nuget/packages/",
-        "outputPath": "/home/aaron/snap/exercism/5/exercism/csharp/diffie-hellman/obj/",
+        "outputPath": "/home/aaron/csharp-exercism/diffie-hellman/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aaron/.nuget/NuGet/NuGet.Config"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/162/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
